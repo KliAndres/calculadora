@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Calculator</string>
-    <string name="titulo">CALCULATOR</string>
+    <string name="titulo">Calculator</string>
     <string name="numero_uno">Numer One</string>
     <string name="numero_dos">Number Two</string>
     <string name="boton_sumar">Add</string>
-    <string name="boton_limpiar">Clear</string>
-    <string name="error_numero_uno">Type number one</string>
-    <string name="error_numero_dos">Type number two</string>
+    <string name="boton_limpiar">Clean</string>
+    <string name="opcion_sumar">Addition</string>
+    <string name="opcion_restar">Subtraction</string>
+    <string name="opcion_multiplicar">Multiplication</string>
+    <string name="opcion_dividir">Division</string>
+    <string name="error_numero_uno">Digit Number one</string>
+    <string name="error_numero_dos">Digit number two</string>
+    <string name="error_division">Can\'t divide by 0</string>
 </resources>
