@@ -43,12 +43,14 @@
             android:id="@+id/btnSumar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="calcular"
             android:text="@string/boton_sumar" />
 
         <Button
             android:id="@+id/btnLimpiar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="limpiar"
             android:text="@string/boton_limpiar" />
     </LinearLayout>
 
