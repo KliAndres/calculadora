@@ -7,4 +7,8 @@
     <string name="boton_limpiar">Limpiar</string>
     <string name="error_numero_uno">Digite el número uno</string>
     <string name="error_numero_dos">Digite el número dos</string>
+    <string name="Opcion_sumar">Sumar</string>
+    <string name="Opcion_restar">Restar</string>
+    <string name="Opcion_multiplicar">Multiplicar</string>
+    <string name="Opcion_dividir">Dividir</string>
 </resources>
